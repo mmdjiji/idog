@@ -1,7 +1,7 @@
 // main.cpp
 // Author: mmdjiji(JiJi)
-// GitHub: https://mmdjiji.com/mmdjiji/idog
-// GPLv3 License
+// GitHub: https://github.com/mmdjiji/idog
+// GPLv3.0 License
 
 #include <stdio.h>
 #include <string.h>

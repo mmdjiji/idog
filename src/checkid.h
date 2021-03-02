@@ -1,7 +1,7 @@
 // checkid.h
 // Author: mmdjiji(JiJi)
-// GitHub: https://mmdjiji.com/mmdjiji/idog
-// GPLv3 License
+// GitHub: https://github.com/mmdjiji/idog
+// GPLv3.0 License
 
 #ifndef _CHECKID_H_
 #define _CHECKID_H_
