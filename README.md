@@ -7,8 +7,8 @@ Check whether the ID card is legal.
 idog <idcard>
 ```
 * Use `*` if unknow a digit;
-* Use `o` for odd number (male) on sex digit;
-* Use `e` for even number (female) on sex digit;
+* Use `o` for odd number (male) on gender digit;
+* Use `e` for even number (female) on gender digit;
 
 ## 🔨 Installation
 ```sh
