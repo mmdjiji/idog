@@ -2,6 +2,8 @@
 
 Check whether the ID card is legal.
 
+![Illustration](assets/illustration.png)
+
 ## 🔐 Usage
 ```sh
 idog <idcard>
